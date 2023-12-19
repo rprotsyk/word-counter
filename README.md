@@ -40,6 +40,7 @@ Ensure your AWS user has the following policies attached for proper functioning:
 		}
 	]
 }
+```
 
 ### Installation
 
