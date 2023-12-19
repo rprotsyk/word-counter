@@ -70,16 +70,16 @@ Ensure your AWS user has the following policies attached for proper functioning:
 Deploy with:
 
 **Lambda:**
-
 ```bash
 npm run deploy-lambda
 
+```
 ## React Deployment
-
 To deploy the React app, run the following command:
 
 ```bash
 npm run deploy-react
+```
 
 ## Usage 🖥️
 
