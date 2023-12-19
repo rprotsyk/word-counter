@@ -91,7 +91,7 @@ Feel free to contribute to this project. Contributions are what make the open-so
 
 ## Issues 🐛
 
-Report issues [here](link-to-issues-page).
+Report issues [here][(https://github.com/rprotsyk/word-counter/issues)]
 
 👤 Author
 
