@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"text\": \"The quick brown fox jumps over the lazy dog\"}"
+}

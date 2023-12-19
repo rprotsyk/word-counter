@@ -1,0 +1,12 @@
+{
+  "name": "word-counter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy-lambda": "cd lambda && npm run deploy",
+    "deploy-react": "cd frontend && npm install && npm run build && serverless client deploy"
+  },
+  "devDependencies": {
+    "serverless-finch": "latest"
+  }
+}
